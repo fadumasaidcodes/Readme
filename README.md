@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="auto" height="200" src="https://i.imgur.com/T0X0V7B.png">
+  <img width="auto" height="200" src="./img.png">
 </p>
 <h1 align="center">Hi 👋, I'm Faduma Ibrahim</h1>
 <h3 align="center">A passionate Junior frontend developer from Birmingham, England.</h3>
